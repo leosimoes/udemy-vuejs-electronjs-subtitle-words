@@ -1,19 +1,19 @@
 <template>
   <v-app>
+    <v-app-bar app color="success" dark>
+      <v-app-bar-title align="center">Most Used Words</v-app-bar-title>
+    </v-app-bar>
     <v-main>
-      <HelloWorld/>
     </v-main>
+    <v-footer app color="success" dark></v-footer>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
   },
 
   data: () => ({

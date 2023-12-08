@@ -33,6 +33,12 @@ vue createudemy-vuejs-electronjs-subtitle-words
 
 ![Image-04-Electron-NpmRunElectronServe](/printscreens/Image-04-Electron-NpmRunElectronServe.jpg)
 
+5. Remove `HelloWorld.vue` file and references to it.
+
+6. Add top (`<v-app-bar>`) and bottom (`<v-footer>`) margins.
+
+![Image-05-Header-Footer](/printscreens/Image-05-Header-Footer.jpg)
+
 
 ## References
 https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/
