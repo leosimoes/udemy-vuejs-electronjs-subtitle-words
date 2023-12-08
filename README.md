@@ -14,9 +14,17 @@ vue createudemy-vuejs-electronjs-subtitle-words
 ```
 ![Image-01-cmd-VueCreate](/printscreens/Image-01-cmd-VueCreate.jpg)
 
-2. Run the project as the `npm run serve` command in the terminal
+2. Run the project with the `npm run serve` command in the terminal.
 
 ![Image-02-NpmRunServe-localhost](/printscreens/Image-02-NpmRunServe-localhost.jpg)
+
+3. Install and add `Vuetify` to the project with the following commands in the terminal:
+- `npm i vuetify`
+- `vue add vuetify` and select `Vuetify 3 - Vue CLI (preview)`
+- In main.js add `loadFonts()` and `.use(vuetify)`.
+- `npm run serves` to run the project.
+
+![Image-03-Vuetify-NpmRunServer-localhost](/printscreens/Image-03-Vuetify-NpmRunServer-localhost.jpg)
 
 
 ## References

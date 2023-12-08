@@ -18,6 +18,14 @@ vue createudemy-vuejs-electronjs-subtitle-words
 
 ![Image-02-NpmRunServe-localhost](/printscreens/Image-02-NpmRunServe-localhost.jpg)
 
+3. Instalar e adicionar `Vuetify` no projeto com os seguintes comando no terminal:
+- `npm i vuetify`
+- `vue add vuetify` e selecione `Vuetify 3 - Vue CLI (preview)`
+- Em main.js adicionar `loadFonts()` e `.use(vuetify)`.
+- `npm run serve` para execute o projeto.
+
+![Image-03-Vuetify-NpmRunServer-localhost](/printscreens/Image-03-Vuetify-NpmRunServer-localhost.jpg)
+
 
 ## Referências
 https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/
