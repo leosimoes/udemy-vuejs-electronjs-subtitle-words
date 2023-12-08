@@ -26,6 +26,13 @@ vue createudemy-vuejs-electronjs-subtitle-words
 
 ![Image-03-Vuetify-NpmRunServer-localhost](/printscreens/Image-03-Vuetify-NpmRunServer-localhost.jpg)
 
+4. Instalar e adicionar `Electron` no projeto com os seguintes comando no terminal:
+- `npm install electron --save-dev`
+- `vue add electron-builder` e escolher versão `11.0.0`.
+- `npm run electron:serve`
+
+![Image-04-Electron-NpmRunElectronServe](/printscreens/Image-04-Electron-NpmRunElectronServe.jpg)
+
 
 ## Referências
 https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/
