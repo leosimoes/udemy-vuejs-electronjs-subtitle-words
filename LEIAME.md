@@ -39,6 +39,15 @@ vue createudemy-vuejs-electronjs-subtitle-words
 
 ![Image-05-Header-Footer](/printscreens/Image-05-Header-Footer.jpg)
 
+7. Criar componente `VWordAmount` com propriedades `name` e `amount`.
+
+8. Criar componente `VHome` com propriedades `name` e `amount`.
+- tendo um componente `VWordAmount`;
+- com o valor de groupedWords, como uma lista de objetos com `name` e `amount`, em data;
+- sendo um componente de `App.vue`.
+
+![Image-06-Home-Pills](/printscreens/Image-06-Home-Pills.jpg)
+
 
 ## Referências
 https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/
