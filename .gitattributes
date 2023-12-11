@@ -1,0 +1,3 @@
+src/background.js linguist-detectable=false
+src/plugins/vuetify.js linguist-detectable=false
+src/plugins/webfontloader.js linguist-detectable=false
